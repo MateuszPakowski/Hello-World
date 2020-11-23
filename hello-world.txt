@@ -1,1 +1,3 @@
-to moj pierwszy wpis w repozytorium w gicie
+ moj pierwszy wpis w repozytorium w gicie
+test
+test
